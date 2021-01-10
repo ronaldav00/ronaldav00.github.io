@@ -1,0 +1,11 @@
+section {
+    min-height: 300px;
+}
+
+.div {
+    background: url(../img/2.jpg);
+    background-size: cover;
+    height: 540px;
+    position: relative;
+    z-index: -1;
+}
